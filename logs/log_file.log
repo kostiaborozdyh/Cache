@@ -1,0 +1,4 @@
+2022-09-21 14:49:54 INFO  CacheTest:55 - User{id=0, name='User0'}
+2022-09-21 14:49:54 INFO  CacheTest:39 - User{id=0, name='User0'}
+2022-09-21 14:49:54 INFO  CacheTest:49 - User{id=0, name='User0'}
+2022-09-21 14:49:54 INFO  CacheTest:31 - User{id=0, name='User0'}
